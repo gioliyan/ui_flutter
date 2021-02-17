@@ -5,7 +5,7 @@ A new Flutter project.
 Hasil Run di Handphone
 
 
-https://user-images.githubusercontent.com/70736299/108158253-2098bf80-7117-11eb-9419-28f9e82ca2aa.mp4
+![caption](https://imgflip.com/gif/4yc17g/ GIF)
 
 
 ## Getting Started
